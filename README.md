@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Prabhat Kumar
 #### I'm a Web Developer
-![I'm a Web Developer](https://twitter.com/Prabhat_0607/header_photo)
+![I'm a Web Developer](https://pbs.twimg.com/profile_banners/1446519992191631369/1634383739/1500x500)
 
 Well-organized person, problem solver, always high attention to detail. Fan of IPL, outdoor activities, TV series, and recently, English literature.
 
