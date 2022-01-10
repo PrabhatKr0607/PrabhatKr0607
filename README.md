@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/prabhat_0607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhat_0607" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/prabhat-kumar-0458a11b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat kumar" height="30" width="40" /></a>  <a href="https://fb.com/prabhat kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabhat kumar" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/prabhatgndit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prabhatgndit" height="30" width="40" /></a>
 </p>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/prabhatgndit/profile)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
