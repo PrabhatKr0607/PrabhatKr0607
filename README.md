@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prabhatkumarsofficial@gmail.com**
 
-- 📄 Get my resume : <a href="here" target="blank"><img align="center" src="(https://prabhatkumarsofficial.netlify.app/Prabhat's%20Amazon's%20Resume.pdf)"
+- 📄 Get my resume from <a href="https://prabhatkumarsofficial.netlify.app/Prabhat's%20Amazon's%20Resume.pdf">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
