@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://prabhatkumarsofficial.netlify.app/](https://prabhatkumarsofficial.netlify.app/)
+- 👨‍💻 Here's <a href="https://prabhatkumarsofficial.netlify.app/">My Portfolio</a>
 
 - 💬 Ask me about **Coding & Web Development**
 
-- 📫 How to reach me **prabhatkumarsofficial@gmail.com**
+- 📫 Reach me through **prabhatkumarsofficial@gmail.com**
 
 - 📄 Get my resume from <a href="https://prabhatkumarsofficial.netlify.app/Prabhat's%20Amazon's%20Resume.pdf">here</a>
 
