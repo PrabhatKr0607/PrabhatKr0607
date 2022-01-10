@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/prabhat_0607" target="blank"><img src="https://img.shields.io/twitter/follow/prabhat_0607?logo=twitter&style=for-the-badge" alt="prabhat_0607" /></a> </p>
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://prabhatkumarsofficial.netlify.app/](https://prabhatkumarsofficial.netlify.app/)
 
-- 💬 Ask me about **Java, Web Development**
+- 💬 Ask me about **Coding & Web Development**
 
 - 📫 How to reach me **prabhatkumarsofficial@gmail.com**
 
-- 📄 Know about my experiences [https://prabhatkumarsofficial.netlify.app/Prabhat's%20Amazon's%20Resume.pdf](https://prabhatkumarsofficial.netlify.app/Prabhat's%20Amazon's%20Resume.pdf)
+- 📄 Get my resume : [https://prabhatkumarsofficial.netlify.app/Prabhat's%20Amazon's%20Resume.pdf](https://prabhatkumarsofficial.netlify.app/Prabhat's%20Amazon's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
