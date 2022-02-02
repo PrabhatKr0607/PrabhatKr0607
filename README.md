@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Here's <a href="https://prabhatkumarsofficial.netlify.app/">**My Portfolio**</a>
+- 👨‍💻 Here's <a href="https://kumarsofficial.netlify.app/">**My Portfolio**</a>
 
 - 💬 Ask me about **Coding & Web Development**
 
